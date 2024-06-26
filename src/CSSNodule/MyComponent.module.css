@@ -1,0 +1,12 @@
+.title{
+    font-weight: "bold";
+    color: red;
+}
+.title1{
+    border: 1px solid red;
+}
+.button{
+    background-color: green;
+  
+    color: black;
+}
